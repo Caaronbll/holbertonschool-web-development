@@ -1,0 +1,68 @@
+body {
+    font-size: 36px;
+   color: #333;
+   border: 4px solid #333;
+   padding: 10px;
+   display: block; /* Change display to block */
+   width: 100%; /* Make it take up 100% of the width */ /* Center the text */
+}
+
+
+header {
+   font-size: 36px;
+   color: #333;
+   border: 2px solid #333;
+   padding: 10px;
+   display: flex; /* Change display to block */
+   width: flex; /* Make it take up 100% of the width */ /* Center the text */
+}
+
+.logolink {
+    font-size: 36px;
+    color: #333;
+    border: 2px solid #333;
+    padding: 10px;
+    display: block; /* Change display to block */
+    width: 50%; /* Make it take up 100% of the width */ /* Center the text */
+    margin-left: 1%;
+    margin-right: 10%;
+
+}
+
+.navlinks {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    border: 1px solid #333;
+    width: 100%;
+}
+
+nav {
+    font-size: 36px;
+    color: #333;
+    border: 2px solid #333;
+    padding: 10px;
+    display: block; /* Change display to block */
+    width: 100%; /* Make it take up 100% of the width */ /* Center the text */
+    margin-left: 55%;
+    position: relative;
+ }
+
+
+ main {
+    font-size: 36px;
+   color: #333;
+   border: 2px solid #333;
+   padding: 10px;
+   display: block; /* Change display to block */
+   width: 100%; /* Make it take up 100% of the width */ /* Center the text */
+}
+
+#banner {
+    font-size: 36px;
+    color: #333;
+    border: 2px solid #333;
+    padding: 10px;
+    display: block; /* Change display to block */
+    width: 100%; /* Make it take up 100% of the width */ /* Center the text */
+}
