@@ -54,8 +54,8 @@ nav {
    color: #333;
    border: 2px solid #333;
    padding: 10px;
-   display: block; /* Change display to block */
-   width: 100%; /* Make it take up 100% of the width */ /* Center the text */
+   display: flex; /* Change display to block */
+   width: 98%; /* Make it take up 100% of the width */ /* Center the text */
 }
 
 #banner {
@@ -63,6 +63,25 @@ nav {
     color: #333;
     border: 2px solid #333;
     padding: 10px;
+    display: inline-block; /* Change display to block */
+    width: 98%; /* Make it take up 100% of the width */ /* Center the text */
+}
+
+#bannerhead {
+    font-size: 36px;
+    color: #333;
+    border: 2px solid #333;
+    padding: 10px;
     display: block; /* Change display to block */
-    width: 100%; /* Make it take up 100% of the width */ /* Center the text */
+    width: 50%; /* Make it take up 100% of the width */ /* Center the text */
+    margin-left: 20%;
+    margin-right: 0;
+    position: relative;
+}
+
+.centertext {
+    font-size: 36px;
+    color: #333;
+    border: 2px solid #333;
+    text-align: center;
 }
