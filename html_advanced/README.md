@@ -62,4 +62,4 @@ Each tag serves a specific purpose in creating and laying out content.
 </details>
 
 Wireframe used to develop this project
-![WireFrame for project](HTML_advanced_wireframe.png)
+![WireFrame for project](html_advanced.jpeg)
