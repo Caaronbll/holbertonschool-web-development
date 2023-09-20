@@ -45,20 +45,6 @@ Attributes provide additional information about an element. They're placed withi
 <br>
 <details open><summary>What the purpose of each HTML tag</summary>
 Each tag serves a specific purpose in creating and laying out content.
-
-<html>: Root element that contains all other HTML elements.
-<head>: Contains meta information, links to CSS, JS files, etc.
-<title>: Sets the title of the web page.
-<body>: Contains the content of the web page.
-<h1>, <h2>, ... <h6>: Headings to structure content.
-<p>: Paragraph.
-<a>: Anchor (links).
-<img>: Embed images.
-<ul>, <ol>, <li>: Lists.
-<table>, <tr>, <td>: Table and its rows and data cells.
-... and many more.
-
-
 </details>
 
 Wireframe used to develop this project
